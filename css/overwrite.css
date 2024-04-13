@@ -1,0 +1,14 @@
+.beach{
+    background-image:  url('../assets/img/beach.jpg' );
+    background-position: top :right;
+    background-repeat: no-repeat;}
+
+.trees{
+    background-image:  url('../assets/img/palmtrees.jpg' );
+    background-position: top :right;
+    background-repeat: no-repeat;}
+
+    .pinneapple{
+        background-image:  url('../assets/img/pinneapple.jpg' );
+        background-position: top :right;
+        background-repeat: no-repeat;}

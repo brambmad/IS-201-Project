@@ -1,0 +1,46 @@
+
+.beach{
+    background-image:  url('../assets/img/red.png' );
+    background-position: top :right;}
+
+ul{ color:darkmagenta;
+    font-size: medium;
+
+}
+ol{
+    color:black;
+    font-weight: bold;
+    font-size: larger;
+}
+.notes{
+    color:midnightblue;
+    font-size: small;}
+
+h4{
+    font-weight:bold;
+    font-size:x-large;
+    text-decoration: underline;
+}
+
+.subtitle{
+    font-size:larger;
+    color: darkmagenta;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+}
+
+.video{
+    color:black;
+    font-weight: bold;
+    font-size: large;
+    text-align: left;
+}
+.dash{
+    color:black;
+    font-weight: bold;
+    font-size: large;
+    text-align: left;
+}
